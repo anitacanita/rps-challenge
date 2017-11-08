@@ -35,6 +35,6 @@ For future versions, I'd like to:
 
 - add a functionality of 3 rounds per game and then declare a winner
 
-- add a player class
+- add 2 player functionality
 
 - make the game look nicer on the browser
